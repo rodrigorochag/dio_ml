@@ -1,0 +1,24 @@
+{
+  "Inputs": {
+    "data": [
+      {
+        "male": 0,
+        "age": 0,
+        "education": "example_value",
+        "currentSmoker": 0,
+        "cigsPerDay": "example_value",
+        "BPMeds": "example_value",
+        "prevalentStroke": 0,
+        "prevalentHyp": 0,
+        "diabetes": 0,
+        "totChol": "example_value",
+        "sysBP": 0.0,
+        "diaBP": 0.0,
+        "BMI": "example_value",
+        "heartRate": 0.0,
+        "glucose": "example_value"
+      }
+    ]
+  },
+  "GlobalParameters": 0.0
+}
